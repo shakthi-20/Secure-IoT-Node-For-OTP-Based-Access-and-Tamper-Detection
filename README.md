@@ -2,9 +2,6 @@
 
 Dual-ESP32 based smart parcel locker that uses **OTP authentication**, **motion sensing**, and **tamper detection**, with **MQTT** and **Blynk IoT Cloud** for secure last-mile delivery.
 
-> Course: 19CSE350 – Internet of Things  
-> Department: Electrical and Electronics Engineering, Amrita School of Engineering, Coimbatore  
-
 ---
 
 ## 🚀 What This Project Does
